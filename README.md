@@ -1,1 +1,2 @@
-# online_courses
+# Laravel Проєкт
+Цей проєкт створений на Laravel.
